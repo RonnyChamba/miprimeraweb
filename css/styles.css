@@ -35,6 +35,10 @@ img {
   padding: 10px 5px;
   width: 100%;
 }
+.content--inicio .lista__link--active {
+  color: #344450;
+  font-weight: 500;
+}
 .title {
   font-size: 1.5em;
   color: #344450;
