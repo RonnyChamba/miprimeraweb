@@ -217,6 +217,10 @@ p {
 .content-paragraph-img img {
   max-width: 100%;
 }
+.enlace-parrafo {
+  color: royalblue;
+  font-weight: 600;
+}
 
 /* Videos */
 .content--videos {
